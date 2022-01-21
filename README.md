@@ -13,6 +13,13 @@
 - [Coin Market Cap](https://coinmarketcap.com/)
 - [IBM - Smart Contracts](https://www.ibm.com/topics/smart-contracts)
 
+---
+
+- [Journal du Net - Quel est l'impact environnmental des cryptomonnaies](https://www.journaldunet.com/economie/finance/1502759-quel-est-l-impact-environnemental-des-cryptomonnaies/)
+-[NYLCV - The environmental consequences of cryptocurrency mining](https://nylcv.org/news/the-environmental-consequences-of-cryptocurrency-mining/)
+- [Digiconomist - Bitcoin electronic waste monitor](https://digiconomist.net/bitcoin-electronic-waste-monitor/)
+
+
 # Installation
 
 ```
@@ -146,4 +153,26 @@ The solution should be added to the `Block` so users will be able to verify that
 Moreover, you'll see that you can spend money that you don't have. To avoid that, each time you send a `Transaction`, the `Chain` should calculate the amount of money your have by looking at the previous `Blocks`. Then, if you don't have enough money, your `Transaction` is refused.
 
 
+# Will cryptocurrency burn the world ?
 
+- Source of energy is important
+ - Indeed, if mining uses green energy, it does not pollute
+ - Some mining plant are near unused energy reserves (Chinese dam, or methane in fuel extraction)
+- Carbon footprint of Bitcoin mining is greater than that of the United Arab Emirates and falls just below the Netherlands'
+ - 121.4TWh
+-  Mining doesn't follow the usual schedule at can gain advadages from renewable energy (solar panels or windmill)
+ - Can reduce the cost of renewable infrastructure and so make these energies more afforable and common
+ - From 28% of green energies in 2018, to 38% in 2019 (Bitcoin mining)
+- Mining involves buying a lot a new computer, this e-waste is equivalent to what produces the Netherlands'
+ - 32.76kT per year (not counting cooling)
+ - 1 Bitcoin transaction has roughly the same electronic waste footprint as 87,500 VISA transaction
+  - It adds ut to 2,302,133 VISA transaction when you consider all types of emission
+ - 1 Bitcoin transcation has roughly the same electronic waste footprint as 2 iPhone 12
+  - *What is counted for **1 transaction**? Transaction are made by batch in Bitcoin*
+- Miner use specialised hardware
+ - Field Programmable Gate Array (FPGA), they can be reprogrammed to mine anything
+ - Application Specific Integrated Circuit (ASIC), only Bitcoins
+ - Cost Efficiency has doubled every 1.5 years for the last 65 years
+ - There is no insentive to keep an outdated hardware because mining it's a competition between miners
+- 1 Bitcoin transaction 
+- To pollute less, some crytocurrency use a *Proof-of-Stake* instead of a *Proof-of-Work* (*What is it?*)
