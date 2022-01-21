@@ -9,12 +9,15 @@
 - [Wikipedia - SHA-2](https://en.wikipedia.org/wiki/SHA-2)
 - [Wikipedia - MD5](https://en.wikipedia.org/wiki/MD5)
 - [Wikipedia - UTF-8](https://en.wikipedia.org/wiki/UTF-8)
+- [Hackernoon - How to create your own cryptocurrency](https://hackernoon.com/how-to-create-your-own-cryptocurrency-tips-to-get-started-947ba92f79f9)
+- [Coin Market Cap](https://coinmarketcap.com/)
+- [IBM - Smart Contracts](https://www.ibm.com/topics/smart-contracts)
 
 # Installation
 
 ```
-git clone ...
-cd ...
+git clone https://github.com/AdrKacz/ecl-mos44-nouvelles-technologies.git
+cd ecl-mos44-nouvelles-technologies
 python3 -m venv .venv
 source .venv/bin/activate # OS-dependent
 python3 -i main.py
