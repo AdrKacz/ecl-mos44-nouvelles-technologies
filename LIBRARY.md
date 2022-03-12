@@ -20,3 +20,24 @@
  - [Forbes - Reddit cofunder says 90% of games in 5 years will be blockcahin 'play to earn' titles](https://www.forbes.com/sites/paultassi/2022/01/17/reddit-cofounder-says-90-of-games-in-5-years-will-be-blockchain-play-to-earn-titles/)
  - [FinanceYahoo - Integration of the Blockchain is a Game Changer in the Cloud Computing Sector](https://finance.yahoo.com/news/integration-blockchain-game-changer-cloud-082309786.html)
  - [CryptoPotato - NFTs and Blockchain-Based Games on the Rise Despite the Recent Crypto Decline](https://cryptopotato.com/nfts-and-blockchain-based-games-on-the-rise-despite-the-recent-crypto-decline-report/)
+
+ # Useful Links
+
+- [Youtube - Fireship - Bitcoin in 100 seconds](https://youtu.be/qF7dkrce-mQ)
+- [Python - Hashlib](https://docs.python.org/3/library/hashlib.html)
+- [Pypi - RSA](https://pypi.org/project/rsa/)
+- [Github - Python - RSA](https://github.com/sybrenstuvel/python-rsa/)
+- [Educative - RSA](https://www.educative.io/edpresso/what-is-the-rsa-algorithm)
+- [Wikipedia - RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+- [Wikipedia - SHA-2](https://en.wikipedia.org/wiki/SHA-2)
+- [Wikipedia - MD5](https://en.wikipedia.org/wiki/MD5)
+- [Wikipedia - UTF-8](https://en.wikipedia.org/wiki/UTF-8)
+- [Hackernoon - How to create your own cryptocurrency](https://hackernoon.com/how-to-create-your-own-cryptocurrency-tips-to-get-started-947ba92f79f9)
+- [Coin Market Cap](https://coinmarketcap.com/)
+- [IBM - Smart Contracts](https://www.ibm.com/topics/smart-contracts)
+
+---
+
+- [Journal du Net - Quel est l'impact environnmental des cryptomonnaies](https://www.journaldunet.com/economie/finance/1502759-quel-est-l-impact-environnemental-des-cryptomonnaies/)
+-[NYLCV - The environmental consequences of cryptocurrency mining](https://nylcv.org/news/the-environmental-consequences-of-cryptocurrency-mining/)
+- [Digiconomist - Bitcoin electronic waste monitor](https://digiconomist.net/bitcoin-electronic-waste-monitor/)
